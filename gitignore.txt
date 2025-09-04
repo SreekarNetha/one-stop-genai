@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+venv/
+.venv/
+
+# Logs
+*.log
+query_log.json
+
+# Models / Large files
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.wav
+*.mp4
+*.png
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
